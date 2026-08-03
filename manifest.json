@@ -1,0 +1,26 @@
+{
+  "name": "Kingdom Seekers Fellowship - Discipleship Tracker",
+  "short_name": "KSF Discipleship",
+  "description": "Track discipleship progress, attendance, exams, and student management for Kingdom Seekers Fellowship",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#2d6a4f",
+  "orientation": "portrait",
+  "scope": "./",
+  "categories": ["education", "productivity"],
+  "icons": [
+    {
+      "src": "./icon.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "./icon.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
